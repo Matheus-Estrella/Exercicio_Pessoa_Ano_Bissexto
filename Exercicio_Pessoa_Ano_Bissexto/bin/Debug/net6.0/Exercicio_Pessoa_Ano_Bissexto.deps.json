@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio_Pessoa_Ano_Bissexto/1.0.0": {
+        "runtime": {
+          "Exercicio_Pessoa_Ano_Bissexto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Pessoa_Ano_Bissexto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
